@@ -1859,7 +1859,15 @@
       "description": "Fluorescent yellow highlighter tested live.",
       "id": "prod-mvsh734j",
       "slug": "live-store-test-highlighter",
-      "createdAt": "2026-10-28T18:56:39.572Z"
+      "createdAt": "2026-10-28T18:56:39.572Z",
+      "purposeTags": [
+        "School",
+        "College",
+        "Office"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1585336261026-407137f61fc7?w=700"
+      ]
     }
   ],
   "categories": [

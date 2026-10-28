@@ -37,7 +37,7 @@ export function FlashDealsCountdown({ products }: FlashDealsProps) {
       if (activeDealFilter === 'under50') return p.price <= 50;
       if (activeDealFilter === 'under100') return p.price <= 100;
       if (activeDealFilter === 'combos') return p.category === 'Gift Sets & Combos' || p.name.includes('Pack') || p.name.includes('Combo');
-      if (activeDealFilter === 'student') return p.purposeTags.includes('College') || p.purposeTags.includes('School');
+      if (activeDealFilter === 'student') return Boolean(p.purposeTags?.includes('College') || p.purposeTags?.includes('School'));
       return p.discountPercentage >= 15;
     })
     .slice(0, 4);

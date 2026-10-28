@@ -29,7 +29,7 @@ export function BuildStationeryKit({ products }: BuildKitProps) {
 
   // Filter products relevant to the chosen purpose
   const relevantProducts = useMemo(() => {
-    return products.filter((p) => p.purposeTags.includes(selectedPurpose));
+    return products.filter((p) => p.purposeTags?.includes(selectedPurpose));
   }, [products, selectedPurpose]);
 
   const toggleProduct = (productId: string) => {

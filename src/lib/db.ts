@@ -288,7 +288,7 @@ export function getProducts(filters: ProductFilters = {}) {
         p.subcategory.toLowerCase().includes(q) ||
         p.sku.toLowerCase().includes(q) ||
         p.description.toLowerCase().includes(q) ||
-        p.purposeTags.some((tag) => tag.toLowerCase().includes(q))
+        (p.purposeTags && p.purposeTags.some((tag) => tag.toLowerCase().includes(q)))
     );
   }
 
@@ -316,7 +316,7 @@ export function getProducts(filters: ProductFilters = {}) {
   if (filters.purpose && filters.purpose !== 'all') {
     const purposeTerm = filters.purpose.toLowerCase();
     list = list.filter((p) =>
-      p.purposeTags.some((tag) => tag.toLowerCase() === purposeTerm)
+      p.purposeTags && p.purposeTags.some((tag) => tag.toLowerCase() === purposeTerm)
     );
   }
 
@@ -416,6 +416,23 @@ export function createProduct(productData: Omit<Product, 'id' | 'createdAt'>): P
       .replace(/(^-|-$)+/g, '');
 
   const newProduct: Product = {
+    brandId: productData.brandId || `brand-${productData.brand.toLowerCase()}`,
+    categoryId: productData.categoryId || 'cat-general',
+    subcategory: productData.subcategory || 'General',
+    subcategoryId: productData.subcategoryId || 'sub-general',
+    images: productData.images && productData.images.length > 0 ? productData.images : ['https://images.unsplash.com/photo-1585336261026-407137f61fc7?w=700'],
+    discountPercentage: productData.discountPercentage || 0,
+    taxPercentage: productData.taxPercentage || 18,
+    lowStockThreshold: productData.lowStockThreshold || 10,
+    purposeTags: productData.purposeTags && productData.purposeTags.length > 0 ? productData.purposeTags : ['School', 'College', 'Office'],
+    specifications: productData.specifications || {},
+    variants: productData.variants || [],
+    rating: productData.rating || 4.8,
+    reviewCount: productData.reviewCount || 0,
+    isNew: productData.isNew !== undefined ? productData.isNew : true,
+    isBestseller: productData.isBestseller || false,
+    isFeatured: productData.isFeatured || false,
+    status: productData.status || 'active',
     ...productData,
     id,
     slug,

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad-desk-organizers" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284C7" />
+      <stop offset="100%" stop-color="#0369A1" />
+    </linearGradient>
+    <filter id="shadow-desk-organizers" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="4" stdDeviation="3" flood-opacity="0.15" />
+    </filter>
+  </defs>
+  <!-- Background Rounded Canvas -->
+  <rect width="100" height="100" rx="22" fill="url(#grad-desk-organizers)" />
+  
+  <!-- Subtle stationery pattern dots in background -->
+  <circle cx="20" cy="20" r="1.5" fill="#ffffff" fill-opacity="0.15" />
+  <circle cx="80" cy="25" r="2" fill="#ffffff" fill-opacity="0.2" />
+  <circle cx="25" cy="80" r="1.5" fill="#ffffff" fill-opacity="0.15" />
+  <circle cx="75" cy="78" r="2.5" fill="#ffffff" fill-opacity="0.2" />
+  
+  <!-- Central Icon Badge -->
+  <g transform="translate(26, 26) scale(2.0)" filter="url(#shadow-desk-organizers)">
+    <!-- Grid Organizers -->
+      <rect x="3" y="3" width="7" height="7" rx="1.5" fill="#FFFFFF"/>
+      <rect x="14" y="3" width="7" height="7" rx="1.5" fill="#BAE6FD"/>
+      <rect x="3" y="14" width="7" height="7" rx="1.5" fill="#BAE6FD"/>
+      <rect x="14" y="14" width="7" height="7" rx="1.5" fill="#FFFFFF"/>
+      <circle cx="6.5" cy="6.5" r="1" fill="#0369A1"/>
+      <circle cx="17.5" cy="17.5" r="1" fill="#0369A1"/>
+  </g>
+</svg>

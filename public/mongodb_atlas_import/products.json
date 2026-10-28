@@ -1,0 +1,1850 @@
+[
+  {
+    "name": "theekalm",
+    "brand": "Classmate",
+    "brandId": "brand-classmate",
+    "category": "Writing Instruments",
+    "categoryId": "cat-writing",
+    "subcategory": "Pens",
+    "price": 99,
+    "mrp": 120,
+    "discountPercentage": 18,
+    "taxPercentage": 12,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1585336261026-407137f61fc7?w=700"
+    ],
+    "sku": "PROD-MVSDLUKI",
+    "barcode": "1793207775225",
+    "description": "High quality stationery item for students and offices.",
+    "shortDescription": "High quality stationery item for students and offices.",
+    "rating": 4.8,
+    "reviewCount": 1,
+    "isNew": true,
+    "isBestseller": false,
+    "isFeatured": false,
+    "purposeTags": [
+      "College",
+      "School",
+      "Office"
+    ],
+    "specifications": {},
+    "variants": [],
+    "status": "active",
+    "id": "prod-mvsdlyrv",
+    "slug": "theekalm",
+    "createdAt": "2026-10-28T17:16:15.308Z",
+    "_id": "prod-mvsdlyrv"
+  },
+  {
+    "id": "prod-001",
+    "name": "Classmate Pulse 6-Subject Spiral Notebook A4",
+    "slug": "classmate-pulse-6-subject-spiral-notebook-a4",
+    "sku": "NOTE-CLS-PUL-A4-01",
+    "barcode": "8901030784912",
+    "brand": "Classmate",
+    "brandId": "brand-classmate",
+    "category": "Notebooks & Paper",
+    "categoryId": "cat-notebooks",
+    "subcategory": "Spiral Notebooks",
+    "subcategoryId": "sub-spiral-notebooks",
+    "description": "Premium A4 single-subject spiral notebook with high-opacity 70 GSM elemental chlorine-free paper. Smooth micro-perforated pages with movable tab dividers to separate your coursework neatly.",
+    "shortDescription": "300 Pages A4 Spiral Bound with colour-coded subject dividers.",
+    "price": 185,
+    "mrp": 220,
+    "discountPercentage": 16,
+    "taxPercentage": 12,
+    "stock": 75,
+    "lowStockThreshold": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1517842645767-c639042777db?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 142,
+    "isNew": false,
+    "isBestseller": true,
+    "isFeatured": true,
+    "isEcoFriendly": true,
+    "purposeTags": [
+      "College",
+      "School",
+      "Exam",
+      "Study Desk"
+    ],
+    "specifications": {
+      "paperSize": "A4 (21 x 29.7 cm)",
+      "pages": 300,
+      "paperGsm": 70,
+      "ruling": "Ruled",
+      "binding": "Spiral",
+      "coverType": "Polypropylene Water-resistant",
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v1-1",
+        "name": "300 Pages - Single",
+        "sku": "NOTE-CLS-PUL-A4-01",
+        "size": "A4",
+        "packSize": 1,
+        "price": 185,
+        "mrp": 220,
+        "stock": 45
+      },
+      {
+        "id": "v1-2",
+        "name": "300 Pages - Pack of 2",
+        "sku": "NOTE-CLS-PUL-A4-02",
+        "size": "A4",
+        "packSize": 2,
+        "price": 349,
+        "mrp": 440,
+        "stock": 30
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-08-10T10:00:00Z",
+    "_id": "prod-001"
+  },
+  {
+    "id": "prod-002",
+    "name": "DOMS Zoom Ultimate Triangle Mechanical Pencil 0.7mm",
+    "slug": "doms-zoom-ultimate-mechanical-pencil-07mm",
+    "sku": "PEN-DOM-ZOO-07",
+    "barcode": "8906073771023",
+    "brand": "DOMS",
+    "brandId": "brand-doms",
+    "category": "Writing Instruments",
+    "categoryId": "cat-writing",
+    "subcategory": "Mechanical Pencils",
+    "subcategoryId": "sub-mechanical-pencils",
+    "description": "Ergonomic triangular comfort grip mechanical pencil with shock-absorbing lead cushion. Includes 2B hi-polymer lead tube with integrated twist eraser at the back for smooth fatigue-free writing.",
+    "shortDescription": "0.7mm Hi-Polymer Mechanical Pencil with twist eraser & lead tube.",
+    "price": 49,
+    "mrp": 60,
+    "discountPercentage": 18,
+    "taxPercentage": 18,
+    "stock": 120,
+    "lowStockThreshold": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1585336261026-407137f61fc7?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.7,
+    "reviewCount": 98,
+    "isNew": false,
+    "isBestseller": true,
+    "isFeatured": true,
+    "purposeTags": [
+      "School",
+      "College",
+      "Exam",
+      "Drawing"
+    ],
+    "specifications": {
+      "writingType": "Mechanical Pencil",
+      "tipSize": "0.7mm",
+      "refillable": true,
+      "material": "Impact-resistant ABS plastic",
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v2-1",
+        "name": "Pastel Blue (0.7mm)",
+        "sku": "PEN-DOM-ZOO-07-BLU",
+        "color": "Blue",
+        "tipSize": "0.7mm",
+        "price": 49,
+        "mrp": 60,
+        "stock": 60
+      },
+      {
+        "id": "v2-2",
+        "name": "Pastel Coral (0.7mm)",
+        "sku": "PEN-DOM-ZOO-07-COR",
+        "color": "Coral",
+        "tipSize": "0.7mm",
+        "price": 49,
+        "mrp": 60,
+        "stock": 60
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-08-12T11:00:00Z",
+    "_id": "prod-002"
+  },
+  {
+    "id": "prod-003",
+    "name": "Camlin Kokuyo Scholar Geometry Box",
+    "slug": "camlin-kokuyo-scholar-geometry-box",
+    "sku": "SCH-CAM-SCH-GEO",
+    "barcode": "8901425010023",
+    "brand": "Camlin Kokuyo",
+    "brandId": "brand-camlin",
+    "category": "School Essentials",
+    "categoryId": "cat-school",
+    "subcategory": "Geometry Boxes",
+    "subcategoryId": "sub-geometry-boxes",
+    "description": "Specially engineered high-accuracy self-centering compass and divider made of rust-proof virgin alloy. Features transparent calibrated scales with bevelled edges and scratch-resistant markings.",
+    "shortDescription": "All-metal precision compass set with plastic scale, protractor & set squares.",
+    "price": 135,
+    "mrp": 160,
+    "discountPercentage": 15,
+    "taxPercentage": 12,
+    "stock": 64,
+    "lowStockThreshold": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1588072432836-e10032774350?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 110,
+    "isNew": false,
+    "isBestseller": true,
+    "isFeatured": true,
+    "purposeTags": [
+      "School",
+      "College",
+      "Exam"
+    ],
+    "specifications": {
+      "material": "Rust-resistant Alloy & Acrylic",
+      "suitableFor": "School Mathematics, Technical Drafting",
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v3-1",
+        "name": "Standard Scholar Tin Box",
+        "sku": "SCH-CAM-SCH-GEO",
+        "price": 135,
+        "mrp": 160,
+        "stock": 64
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-08-15T09:30:00Z",
+    "_id": "prod-003"
+  },
+  {
+    "id": "prod-004",
+    "name": "Pentel EnerGel Retractable Liquid Gel Pen 0.5mm (Pack of 3)",
+    "slug": "pentel-energel-retractable-liquid-gel-pen-05mm-pack-3",
+    "sku": "PEN-PEN-ENE-05-3",
+    "barcode": "088485100342",
+    "brand": "Pentel",
+    "brandId": "brand-pentel",
+    "category": "Writing Instruments",
+    "categoryId": "cat-writing",
+    "subcategory": "Gel Pens",
+    "subcategoryId": "sub-gel-pens",
+    "description": "High-performance quick-dry liquid gel ink combines the best qualities of liquid and gel. Dries fast even on left-handed writing without smears or smudges. Sleek barrel with latex-free comfort grip.",
+    "shortDescription": "Ultra-fast drying EnerGel quick-dry ink. 0.5mm needle tip (Pack of 3).",
+    "price": 175,
+    "mrp": 210,
+    "discountPercentage": 17,
+    "taxPercentage": 18,
+    "stock": 83,
+    "lowStockThreshold": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1585336261026-407137f61fc7?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1569683795645-b62e50fbf103?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.9,
+    "reviewCount": 215,
+    "isNew": false,
+    "isBestseller": true,
+    "isFeatured": true,
+    "purposeTags": [
+      "College",
+      "Office",
+      "Exam",
+      "Journaling"
+    ],
+    "specifications": {
+      "writingType": "Gel",
+      "tipSize": "0.5mm",
+      "inkColor": "Blue & Black",
+      "refillable": true,
+      "packSize": 3,
+      "countryOfOrigin": "Japan"
+    },
+    "variants": [
+      {
+        "id": "v4-1",
+        "name": "Blue Ink (Pack of 3)",
+        "sku": "PEN-PEN-ENE-05-BLU",
+        "color": "Blue",
+        "packSize": 3,
+        "price": 175,
+        "mrp": 210,
+        "stock": 50
+      },
+      {
+        "id": "v4-2",
+        "name": "Black Ink (Pack of 3)",
+        "sku": "PEN-PEN-ENE-05-BLK",
+        "color": "Black",
+        "packSize": 3,
+        "price": 175,
+        "mrp": 210,
+        "stock": 35
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-08-18T14:15:00Z",
+    "_id": "prod-004"
+  },
+  {
+    "id": "prod-005",
+    "name": "Faber-Castell Tri-Colour Pencils Tin (Set of 24)",
+    "slug": "faber-castell-tri-colour-pencils-tin-set-24",
+    "sku": "ART-FAB-TRI-24",
+    "barcode": "8901180632018",
+    "brand": "Faber-Castell",
+    "brandId": "brand-faber",
+    "category": "Art Supplies",
+    "categoryId": "cat-art",
+    "subcategory": "Paints & Colours",
+    "subcategoryId": "sub-colours-paints",
+    "description": "Vibrant triangular coloured pencils with SV-bonding process that prevents core breakage. Made from 100% certified reforested wood. Smooth blending pigments suitable for illustration and colouring.",
+    "shortDescription": "Break-resistant triangular colour pencils in durable metal storage tin.",
+    "price": 249,
+    "mrp": 300,
+    "discountPercentage": 17,
+    "taxPercentage": 12,
+    "stock": 52,
+    "lowStockThreshold": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 89,
+    "isNew": false,
+    "isBestseller": true,
+    "isFeatured": true,
+    "isEcoFriendly": true,
+    "purposeTags": [
+      "Art",
+      "Drawing",
+      "School",
+      "Gift"
+    ],
+    "specifications": {
+      "colorCount": 24,
+      "material": "100% Reforested Sustainable Pine",
+      "suitableFor": "Sketching, Colouring, Art Projects",
+      "ageGroup": "6+ Years & Adults",
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v5-1",
+        "name": "24 Shades Metal Tin",
+        "sku": "ART-FAB-TRI-24",
+        "price": 249,
+        "mrp": 300,
+        "stock": 52
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-08-20T10:00:00Z",
+    "_id": "prod-005"
+  },
+  {
+    "id": "prod-006",
+    "name": "Flair Pastel Highlighter Set (Pack of 5 Soft Pastel Shades)",
+    "slug": "flair-pastel-highlighter-set-pack-of-5",
+    "sku": "PEN-FLA-PAS-05",
+    "barcode": "8901765103421",
+    "brand": "Flair",
+    "brandId": "brand-flair",
+    "category": "Writing Instruments",
+    "categoryId": "cat-writing",
+    "subcategory": "Highlighters",
+    "subcategoryId": "sub-highlighters",
+    "description": "Subtle aesthetic pastel shades that do not bleed through notebook paper or cause eye strain. Chisel tip allows 1mm fine underlining and 4mm broad highlighting. Non-toxic water-based ink.",
+    "shortDescription": "Chic pastel aesthetic highlighters: Mint, Lavender, Peach, Powder Blue & Coral.",
+    "price": 99,
+    "mrp": 125,
+    "discountPercentage": 20,
+    "taxPercentage": 18,
+    "stock": 140,
+    "lowStockThreshold": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1585336261026-407137f61fc7?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.7,
+    "reviewCount": 165,
+    "isNew": true,
+    "isBestseller": true,
+    "isFeatured": true,
+    "purposeTags": [
+      "College",
+      "School",
+      "Exam",
+      "Journaling",
+      "Study Desk"
+    ],
+    "specifications": {
+      "writingType": "Highlighter",
+      "tipSize": "1mm - 4mm Chisel",
+      "packSize": 5,
+      "inkColor": "Pastel Multi-pack",
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v6-1",
+        "name": "Pack of 5 Pastel Shades",
+        "sku": "PEN-FLA-PAS-05",
+        "packSize": 5,
+        "price": 99,
+        "mrp": 125,
+        "stock": 140
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-08-22T16:00:00Z",
+    "_id": "prod-006"
+  },
+  {
+    "id": "prod-007",
+    "name": "SmartStation Minimalist Academic Habit & Daily Planner A5",
+    "slug": "smartstation-minimalist-academic-habit-daily-planner-a5",
+    "sku": "PLAN-SS-ACAD-A5",
+    "barcode": "8908012345012",
+    "brand": "Classmate",
+    "brandId": "brand-classmate",
+    "category": "Planners & Journals",
+    "categoryId": "cat-planning",
+    "subcategory": "Daily & Weekly Planners",
+    "subcategoryId": "sub-daily-planners",
+    "description": "Undated 12-month productivity planner crafted with premium 100 GSM fountain-pen friendly ivory paper. Features priority goal matrices, weekly habit trackers, exam revision schedules, and ribbon bookmark.",
+    "shortDescription": "100 GSM Ivory Paper, undated layout, habit trackers & exam study matrices.",
+    "price": 349,
+    "mrp": 499,
+    "discountPercentage": 30,
+    "taxPercentage": 12,
+    "stock": 45,
+    "lowStockThreshold": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.9,
+    "reviewCount": 78,
+    "isNew": true,
+    "isBestseller": true,
+    "isFeatured": true,
+    "isEcoFriendly": true,
+    "purposeTags": [
+      "College",
+      "Office",
+      "Journaling",
+      "Study Desk",
+      "Gift"
+    ],
+    "specifications": {
+      "paperSize": "A5 (14.8 x 21 cm)",
+      "pages": 192,
+      "paperGsm": 100,
+      "ruling": "Grid",
+      "binding": "Hardcover",
+      "coverType": "Vegan Leather with Foil Emboss",
+      "dimensions": "21.5 x 15 x 2 cm",
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v7-1",
+        "name": "Sage Green Hardcover",
+        "sku": "PLAN-SS-ACAD-A5-SGE",
+        "color": "Sage Green",
+        "size": "A5",
+        "price": 349,
+        "mrp": 499,
+        "stock": 25
+      },
+      {
+        "id": "v7-2",
+        "name": "Charcoal Navy Hardcover",
+        "sku": "PLAN-SS-ACAD-A5-NAV",
+        "color": "Navy Blue",
+        "size": "A5",
+        "price": 349,
+        "mrp": 499,
+        "stock": 20
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-08-25T11:00:00Z",
+    "_id": "prod-007"
+  },
+  {
+    "id": "prod-008",
+    "name": "Parker Vector Matte Black Fountain Pen with Chrome Trim",
+    "slug": "parker-vector-matte-black-fountain-pen-chrome-trim",
+    "sku": "PEN-PAR-VEC-FP",
+    "barcode": "3501170726021",
+    "brand": "Parker",
+    "brandId": "brand-parker",
+    "category": "Writing Instruments",
+    "categoryId": "cat-writing",
+    "subcategory": "Fountain Pens",
+    "subcategoryId": "sub-fountain-pens",
+    "description": "Iconic Parker Vector fountain pen featuring an ultra-durable resin barrel with matte black finish and stainless steel fine nib. Ergonomic tapered section provides steady ink flow with converter or Parker cartridges.",
+    "shortDescription": "Matte black resin barrel with stainless steel fine nib & ink cartridge.",
+    "price": 499,
+    "mrp": 650,
+    "discountPercentage": 23,
+    "taxPercentage": 18,
+    "stock": 35,
+    "lowStockThreshold": 8,
+    "images": [
+      "https://images.unsplash.com/photo-1569683795645-b62e50fbf103?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1585336261026-407137f61fc7?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 130,
+    "isNew": false,
+    "isBestseller": false,
+    "isFeatured": true,
+    "purposeTags": [
+      "Office",
+      "College",
+      "Gift",
+      "Journaling"
+    ],
+    "specifications": {
+      "writingType": "Fountain",
+      "tipSize": "Fine Nib (0.5mm)",
+      "inkColor": "Blue",
+      "refillable": true,
+      "material": "Engineered Resin & Chrome Trim",
+      "countryOfOrigin": "France / UK"
+    },
+    "variants": [
+      {
+        "id": "v8-1",
+        "name": "Matte Black - Fine Nib",
+        "sku": "PEN-PAR-VEC-FP-BLK",
+        "color": "Matte Black",
+        "price": 499,
+        "mrp": 650,
+        "stock": 35
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-08-28T12:00:00Z",
+    "_id": "prod-008"
+  },
+  {
+    "id": "prod-009",
+    "name": "Multi-Compartment Metal Mesh Desk Organizer with Drawer",
+    "slug": "multi-compartment-metal-mesh-desk-organizer-with-drawer",
+    "sku": "DSK-SS-MSH-01",
+    "barcode": "8907812001923",
+    "brand": "Kangaro",
+    "brandId": "brand-kangaroo",
+    "category": "Desk Organizers",
+    "categoryId": "cat-desk",
+    "subcategory": "Desk Trays & Pen Stands",
+    "subcategoryId": "sub-pen-stands",
+    "description": "Keep your study desk immaculate with this 6-compartment electroplated steel mesh desktop caddy. Includes a smooth sliding drawer for paperclips and sticky notes, dual upright pen slots, and notebook shelf.",
+    "shortDescription": "Electroplated steel mesh organizer with 6 compartments & sliding drawer.",
+    "price": 320,
+    "mrp": 450,
+    "discountPercentage": 28,
+    "taxPercentage": 18,
+    "stock": 42,
+    "lowStockThreshold": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.7,
+    "reviewCount": 64,
+    "isNew": true,
+    "isBestseller": true,
+    "isFeatured": true,
+    "purposeTags": [
+      "Study Desk",
+      "Office",
+      "College",
+      "Gift"
+    ],
+    "specifications": {
+      "material": "Rust-resistant Powder-Coated Metal Mesh",
+      "dimensions": "22 x 14 x 13 cm",
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v9-1",
+        "name": "Matte Black",
+        "sku": "DSK-SS-MSH-01-BLK",
+        "color": "Black",
+        "price": 320,
+        "mrp": 450,
+        "stock": 24
+      },
+      {
+        "id": "v9-2",
+        "name": "Rose Gold",
+        "sku": "DSK-SS-MSH-01-RSG",
+        "color": "Rose Gold",
+        "price": 350,
+        "mrp": 490,
+        "stock": 18
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-09-01T15:00:00Z",
+    "_id": "prod-009"
+  },
+  {
+    "id": "prod-010",
+    "name": "Staedtler Mars Lumograph Graphite Sketching Pencils (Tin of 6)",
+    "slug": "staedtler-mars-lumograph-sketching-pencils-set-of-6",
+    "sku": "ART-STE-MAR-06",
+    "barcode": "4007817100010",
+    "brand": "Staedtler",
+    "brandId": "brand-staedtler",
+    "category": "Art Supplies",
+    "categoryId": "cat-art",
+    "subcategory": "Graphite & Charcoal Pencils",
+    "subcategoryId": "sub-drawing-pencils",
+    "description": "Finest German drafting and sketching pencils with super-bonded lead formulation for extreme break resistance. Includes 6 distinct artist grading leads: 2H, HB, B, 2B, 4B, and 6B in tin case.",
+    "shortDescription": "Professional German artist sketching pencils (2H, HB, B, 2B, 4B, 6B).",
+    "price": 360,
+    "mrp": 420,
+    "discountPercentage": 14,
+    "taxPercentage": 12,
+    "stock": 40,
+    "lowStockThreshold": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.9,
+    "reviewCount": 92,
+    "isNew": false,
+    "isBestseller": true,
+    "isFeatured": true,
+    "isEcoFriendly": true,
+    "purposeTags": [
+      "Art",
+      "Drawing",
+      "College",
+      "School"
+    ],
+    "specifications": {
+      "colorCount": 6,
+      "material": "Certified Cedar Wood with Bonded Graphite",
+      "suitableFor": "Technical Drawing, Portraiture, Shading",
+      "countryOfOrigin": "Germany"
+    },
+    "variants": [
+      {
+        "id": "v10-1",
+        "name": "Tin of 6 Grades (2H - 6B)",
+        "sku": "ART-STE-MAR-06",
+        "price": 360,
+        "mrp": 420,
+        "stock": 40
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-09-03T10:00:00Z",
+    "_id": "prod-010"
+  },
+  {
+    "id": "prod-011",
+    "name": "SmartStation Exam Master Clear Zipper Pouch Stationery Combo",
+    "slug": "smartstation-exam-master-clear-zipper-pouch-stationery-combo",
+    "sku": "EXM-SS-MST-CMB",
+    "barcode": "8908012345099",
+    "brand": "DOMS",
+    "brandId": "brand-doms",
+    "category": "Exam Essentials",
+    "categoryId": "cat-exam",
+    "subcategory": "Pencil Pouches",
+    "subcategoryId": "sub-pencil-pouches",
+    "description": "Exam hall compliant transparent mesh-reinforced PVC zipper pouch pre-packed with 2 blue gel pens, 2 black ball pens, 1 mechanical pencil 0.7mm, 1 dust-free eraser, 1 steel ruler 15cm, and 1 mini sharpener.",
+    "shortDescription": "Official exam hall transparent pouch + 8 essential exam tools combo.",
+    "price": 199,
+    "mrp": 275,
+    "discountPercentage": 27,
+    "taxPercentage": 18,
+    "stock": 90,
+    "lowStockThreshold": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1588072432836-e10032774350?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.9,
+    "reviewCount": 220,
+    "isNew": true,
+    "isBestseller": true,
+    "isFeatured": true,
+    "purposeTags": [
+      "Exam",
+      "School",
+      "College"
+    ],
+    "specifications": {
+      "material": "Waterproof Transparent Polyvinyl",
+      "dimensions": "23 x 12 cm",
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v11-1",
+        "name": "Transparent Blue Zipper",
+        "sku": "EXM-SS-MST-BLU",
+        "color": "Blue",
+        "price": 199,
+        "mrp": 275,
+        "stock": 50
+      },
+      {
+        "id": "v11-2",
+        "name": "Transparent Clear Zipper",
+        "sku": "EXM-SS-MST-CLR",
+        "color": "Clear",
+        "price": 199,
+        "mrp": 275,
+        "stock": 40
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-09-05T12:00:00Z",
+    "_id": "prod-011"
+  },
+  {
+    "id": "prod-012",
+    "name": "Cello Butterflow Classic Ball Pen Blue (Pack of 10)",
+    "slug": "cello-butterflow-classic-ball-pen-blue-pack-of-10",
+    "sku": "PEN-CEL-BUT-BLU-10",
+    "barcode": "8901234005612",
+    "brand": "Cello",
+    "brandId": "brand-cello",
+    "category": "Writing Instruments",
+    "categoryId": "cat-writing",
+    "subcategory": "Ballpoint Pens",
+    "subcategoryId": "sub-ball-pens",
+    "description": "The beloved butter-smooth daily ball pen engineered with Lubriflow low-viscosity ink system. Textured comfortable rubber grip enables speed handwriting during exams and lengthy lectures.",
+    "shortDescription": "Lubriflow ink system ballpoint pen with soft rubber grip. Pack of 10.",
+    "price": 90,
+    "mrp": 100,
+    "discountPercentage": 10,
+    "taxPercentage": 18,
+    "stock": 180,
+    "lowStockThreshold": 40,
+    "images": [
+      "https://images.unsplash.com/photo-1585336261026-407137f61fc7?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.6,
+    "reviewCount": 310,
+    "isNew": false,
+    "isBestseller": true,
+    "isFeatured": true,
+    "purposeTags": [
+      "School",
+      "College",
+      "Exam",
+      "Office"
+    ],
+    "specifications": {
+      "writingType": "Ball",
+      "tipSize": "0.7mm",
+      "inkColor": "Blue",
+      "refillable": true,
+      "packSize": 10,
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v12-1",
+        "name": "Blue Ink (Pack of 10)",
+        "sku": "PEN-CEL-BUT-BLU-10",
+        "color": "Blue",
+        "packSize": 10,
+        "price": 90,
+        "mrp": 100,
+        "stock": 120
+      },
+      {
+        "id": "v12-2",
+        "name": "Black Ink (Pack of 10)",
+        "sku": "PEN-CEL-BUT-BLK-10",
+        "color": "Black",
+        "packSize": 10,
+        "price": 90,
+        "mrp": 100,
+        "stock": 60
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-09-08T09:00:00Z",
+    "_id": "prod-012"
+  },
+  {
+    "id": "prod-013",
+    "name": "Post-it Super Sticky Notes Cube 3x3 inches (400 Sheets Pastel)",
+    "slug": "post-it-super-sticky-notes-cube-3x3-pastel",
+    "sku": "OFC-POST-STK-400",
+    "barcode": "051131976214",
+    "brand": "Classmate",
+    "brandId": "brand-classmate",
+    "category": "Office Supplies",
+    "categoryId": "cat-office",
+    "subcategory": "Sticky Notes & Flags",
+    "subcategoryId": "sub-sticky-notes",
+    "description": "Vibrant pastel 3x3 inch note cube with 2x the sticking power of standard notes. Sticks reliably to notebooks, monitors, doors and textbooks without leaving glue residue.",
+    "shortDescription": "400 sheets multi-pastel self-adhesive notes cube.",
+    "price": 199,
+    "mrp": 249,
+    "discountPercentage": 20,
+    "taxPercentage": 18,
+    "stock": 70,
+    "lowStockThreshold": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 95,
+    "isNew": false,
+    "isBestseller": true,
+    "isFeatured": true,
+    "isEcoFriendly": true,
+    "purposeTags": [
+      "Study Desk",
+      "Office",
+      "College",
+      "Exam"
+    ],
+    "specifications": {
+      "paperSize": "76 x 76 mm (3x3 in)",
+      "pages": 400,
+      "paperGsm": 75,
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v13-1",
+        "name": "Pastel Rainbow Cube (400 Sheets)",
+        "sku": "OFC-POST-STK-400",
+        "price": 199,
+        "mrp": 249,
+        "stock": 70
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-09-10T11:00:00Z",
+    "_id": "prod-013"
+  },
+  {
+    "id": "prod-014",
+    "name": "Kangaro Heavy Duty Desk Stapler with 2000 Pins Set",
+    "slug": "kangaro-heavy-duty-desk-stapler-with-pins",
+    "sku": "OFC-KAN-STP-10D",
+    "barcode": "8901235610012",
+    "brand": "Kangaro",
+    "brandId": "brand-kangaroo",
+    "category": "Office Supplies",
+    "categoryId": "cat-office",
+    "subcategory": "Staplers & Punching Machines",
+    "subcategoryId": "sub-staplers-clips",
+    "description": "Rugged all-metal construction desktop stapler with quick-load magazine and anti-skid rubber base. Easily binds up to 30 sheets of 75 GSM paper without jam. Comes bundled with 2000 No. 10 staples.",
+    "shortDescription": "All-metal desk stapler with reload indicator + 2000 staple pins.",
+    "price": 145,
+    "mrp": 175,
+    "discountPercentage": 17,
+    "taxPercentage": 18,
+    "stock": 55,
+    "lowStockThreshold": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.7,
+    "reviewCount": 82,
+    "isNew": false,
+    "isBestseller": false,
+    "isFeatured": true,
+    "purposeTags": [
+      "Office",
+      "College",
+      "Study Desk"
+    ],
+    "specifications": {
+      "material": "Zinc Alloy & Chrome Plating",
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v14-1",
+        "name": "Standard Grey + 2000 Pins",
+        "sku": "OFC-KAN-STP-10D",
+        "price": 145,
+        "mrp": 175,
+        "stock": 55
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-09-12T13:00:00Z",
+    "_id": "prod-014"
+  },
+  {
+    "id": "prod-015",
+    "name": "Pilot V5 Hi-Tecpoint Liquid Ink Rollerball 0.5mm (Pack of 3)",
+    "slug": "pilot-v5-hi-tecpoint-liquid-ink-rollerball-pack-of-3",
+    "sku": "PEN-PIL-V05-BLU-3",
+    "barcode": "4902505085421",
+    "brand": "Pilot",
+    "brandId": "brand-pilot",
+    "category": "Writing Instruments",
+    "categoryId": "cat-writing",
+    "subcategory": "Gel Pens",
+    "subcategoryId": "sub-gel-pens",
+    "description": "Classic Japanese V-System liquid ink rollerball featuring an ink controller mechanism that guarantees consistent line density to the very last drop. Multi-dimple 0.5mm tip produces crisp lines.",
+    "shortDescription": "Pure liquid ink with visible ink reservoir window. 0.5mm (Pack of 3).",
+    "price": 180,
+    "mrp": 210,
+    "discountPercentage": 14,
+    "taxPercentage": 18,
+    "stock": 95,
+    "lowStockThreshold": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1585336261026-407137f61fc7?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1569683795645-b62e50fbf103?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 175,
+    "isNew": false,
+    "isBestseller": true,
+    "isFeatured": true,
+    "purposeTags": [
+      "College",
+      "Exam",
+      "Office",
+      "Journaling"
+    ],
+    "specifications": {
+      "writingType": "Rollerball",
+      "tipSize": "0.5mm",
+      "inkColor": "Blue",
+      "refillable": false,
+      "packSize": 3,
+      "countryOfOrigin": "Japan"
+    },
+    "variants": [
+      {
+        "id": "v15-1",
+        "name": "Blue (Pack of 3)",
+        "sku": "PEN-PIL-V05-BLU-3",
+        "color": "Blue",
+        "packSize": 3,
+        "price": 180,
+        "mrp": 210,
+        "stock": 60
+      },
+      {
+        "id": "v15-2",
+        "name": "Black (Pack of 3)",
+        "sku": "PEN-PIL-V05-BLK-3",
+        "color": "Black",
+        "packSize": 3,
+        "price": 180,
+        "mrp": 210,
+        "stock": 35
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-09-15T15:00:00Z",
+    "_id": "prod-015"
+  },
+  {
+    "id": "prod-016",
+    "name": "Classmate Hardcover Ruled Executive Journal A5 (192 Pages)",
+    "slug": "classmate-hardcover-ruled-executive-journal-a5",
+    "sku": "NOTE-CLS-EXE-A5",
+    "barcode": "8901030998812",
+    "brand": "Classmate",
+    "brandId": "brand-classmate",
+    "category": "Notebooks & Paper",
+    "categoryId": "cat-notebooks",
+    "subcategory": "Hardcover Journals",
+    "subcategoryId": "sub-hardcover-journals",
+    "description": "Luxurious cloth-textured hardcover diary journal with 80 GSM natural shade paper. Lay-flat 180-degree thread-bound spine, integrated ribbon bookmark, and expandable back pocket for paper souvenirs.",
+    "shortDescription": "80 GSM natural shade paper with expandable back inner pocket.",
+    "price": 199,
+    "mrp": 260,
+    "discountPercentage": 23,
+    "taxPercentage": 12,
+    "stock": 58,
+    "lowStockThreshold": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 88,
+    "isNew": false,
+    "isBestseller": true,
+    "isFeatured": true,
+    "isEcoFriendly": true,
+    "purposeTags": [
+      "Journaling",
+      "College",
+      "Office",
+      "Gift"
+    ],
+    "specifications": {
+      "paperSize": "A5 (14.8 x 21 cm)",
+      "pages": 192,
+      "paperGsm": 80,
+      "ruling": "Ruled",
+      "binding": "Hardcover",
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v16-1",
+        "name": "Midnight Navy",
+        "sku": "NOTE-CLS-EXE-NAV",
+        "color": "Navy Blue",
+        "size": "A5",
+        "price": 199,
+        "mrp": 260,
+        "stock": 30
+      },
+      {
+        "id": "v16-2",
+        "name": "Terracotta Brown",
+        "sku": "NOTE-CLS-EXE-TER",
+        "color": "Brown",
+        "size": "A5",
+        "price": 199,
+        "mrp": 260,
+        "stock": 28
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-09-18T10:00:00Z",
+    "_id": "prod-016"
+  },
+  {
+    "id": "prod-017",
+    "name": "Maped Precision Stainless Steel Scissors 17cm (Ergonomic Grip)",
+    "slug": "maped-precision-stainless-steel-scissors-17cm",
+    "sku": "CRF-MAP-SCI-17",
+    "barcode": "3154144680104",
+    "brand": "Maped",
+    "brandId": "brand-maped",
+    "category": "Craft & DIY",
+    "categoryId": "cat-craft",
+    "subcategory": "Scissors & Knives",
+    "subcategoryId": "sub-craft-tools",
+    "description": "High grade brushed stainless steel blades with 3D ergonomic soft ring handles. Precise cutting action through cardstock, fabrics, ribbons and paper without hand fatigue.",
+    "shortDescription": "17cm brushed stainless steel blades with soft finger grip rings.",
+    "price": 85,
+    "mrp": 110,
+    "discountPercentage": 23,
+    "taxPercentage": 18,
+    "stock": 65,
+    "lowStockThreshold": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1588072432836-e10032774350?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.6,
+    "reviewCount": 52,
+    "isNew": false,
+    "isBestseller": false,
+    "isFeatured": false,
+    "purposeTags": [
+      "School",
+      "Craft",
+      "Office",
+      "Study Desk"
+    ],
+    "specifications": {
+      "material": "Stainless Steel & Soft-touch TPE",
+      "countryOfOrigin": "France / India"
+    },
+    "variants": [
+      {
+        "id": "v17-1",
+        "name": "Standard 17cm",
+        "sku": "CRF-MAP-SCI-17",
+        "price": 85,
+        "mrp": 110,
+        "stock": 65
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-09-20T11:00:00Z",
+    "_id": "prod-017"
+  },
+  {
+    "id": "prod-018",
+    "name": "Camlin Artist Watercolour Cakes Set of 24 with Free Brush",
+    "slug": "camlin-artist-watercolour-cakes-set-of-24",
+    "sku": "ART-CAM-WTR-24",
+    "barcode": "8901425032018",
+    "brand": "Camlin Kokuyo",
+    "brandId": "brand-camlin",
+    "category": "Art Supplies",
+    "categoryId": "cat-art",
+    "subcategory": "Paints & Colours",
+    "subcategoryId": "sub-colours-paints",
+    "description": "Classic water colour palette cakes crafted from finest pigments and gum arabic. Provides luminous washes, excellent lightfastness, and instant dissolution in water. Features built-in mixing palette lid.",
+    "shortDescription": "24 vibrant watercolour cake tablets in compact plastic palette box.",
+    "price": 180,
+    "mrp": 220,
+    "discountPercentage": 18,
+    "taxPercentage": 12,
+    "stock": 48,
+    "lowStockThreshold": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.7,
+    "reviewCount": 112,
+    "isNew": false,
+    "isBestseller": true,
+    "isFeatured": true,
+    "purposeTags": [
+      "Art",
+      "Drawing",
+      "School",
+      "Gift"
+    ],
+    "specifications": {
+      "colorCount": 24,
+      "suitableFor": "Watercolour painting, illustration, school art",
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v18-1",
+        "name": "24 Cakes Box + Brush",
+        "sku": "ART-CAM-WTR-24",
+        "price": 180,
+        "mrp": 220,
+        "stock": 48
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-09-22T14:00:00Z",
+    "_id": "prod-018"
+  },
+  {
+    "id": "prod-019",
+    "name": "DOMS Non-Toxic Neon Eraser & Sharpener Duo Tub (Pack of 20)",
+    "slug": "doms-neon-eraser-sharpener-duo-tub-pack-of-20",
+    "sku": "SCH-DOM-ERS-TUB",
+    "barcode": "8906073775412",
+    "brand": "DOMS",
+    "brandId": "brand-doms",
+    "category": "School Essentials",
+    "categoryId": "cat-school",
+    "subcategory": "Erasers & Sharpeners",
+    "subcategoryId": "sub-erasers-sharpeners",
+    "description": "Dust-free polymer erasers with integrated contour sharpeners in neon colours. Cleans lead graphite cleanly without tearing paper or leaving black smudges.",
+    "shortDescription": "Dust-free soft erasers with anti-rust blade sharpeners in storage tub.",
+    "price": 140,
+    "mrp": 180,
+    "discountPercentage": 22,
+    "taxPercentage": 12,
+    "stock": 75,
+    "lowStockThreshold": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1588072432836-e10032774350?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.6,
+    "reviewCount": 67,
+    "isNew": false,
+    "isBestseller": false,
+    "isFeatured": false,
+    "purposeTags": [
+      "School",
+      "Exam",
+      "College"
+    ],
+    "specifications": {
+      "material": "Phthalate-free synthetic rubber",
+      "packSize": 20,
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v19-1",
+        "name": "Tub of 20 Neon Duos",
+        "sku": "SCH-DOM-ERS-TUB",
+        "packSize": 20,
+        "price": 140,
+        "mrp": 180,
+        "stock": 75
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-09-25T16:00:00Z",
+    "_id": "prod-019"
+  },
+  {
+    "id": "prod-020",
+    "name": "Uni-ball Eye UB-150 Waterproof Rollerball Pen (Pack of 3)",
+    "slug": "uni-ball-eye-ub-150-waterproof-rollerball-pack-of-3",
+    "sku": "PEN-UNI-EYE-150-3",
+    "barcode": "4902778912415",
+    "brand": "Uni-ball",
+    "brandId": "brand-uniball",
+    "category": "Writing Instruments",
+    "categoryId": "cat-writing",
+    "subcategory": "Ballpoint Pens",
+    "subcategoryId": "sub-ball-pens",
+    "description": "World-famous Uni-ball Eye featuring Super Ink: water-resistant, fade-resistant, and tamper-proof pigment ink that preserves documents for decades. Stainless steel 0.5mm micro tip.",
+    "shortDescription": "Super Ink archival pigment ink. 0.5mm micro tip (Pack of 3).",
+    "price": 210,
+    "mrp": 240,
+    "discountPercentage": 13,
+    "taxPercentage": 18,
+    "stock": 80,
+    "lowStockThreshold": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1585336261026-407137f61fc7?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1569683795645-b62e50fbf103?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.9,
+    "reviewCount": 190,
+    "isNew": false,
+    "isBestseller": true,
+    "isFeatured": true,
+    "purposeTags": [
+      "Office",
+      "Exam",
+      "College",
+      "Journaling"
+    ],
+    "specifications": {
+      "writingType": "Rollerball",
+      "tipSize": "0.5mm",
+      "inkColor": "Blue",
+      "refillable": false,
+      "packSize": 3,
+      "countryOfOrigin": "Japan"
+    },
+    "variants": [
+      {
+        "id": "v20-1",
+        "name": "Blue (Pack of 3)",
+        "sku": "PEN-UNI-EYE-BLU-3",
+        "color": "Blue",
+        "packSize": 3,
+        "price": 210,
+        "mrp": 240,
+        "stock": 50
+      },
+      {
+        "id": "v20-2",
+        "name": "Black (Pack of 3)",
+        "sku": "PEN-UNI-EYE-BLK-3",
+        "color": "Black",
+        "packSize": 3,
+        "price": 210,
+        "mrp": 240,
+        "stock": 30
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-09-28T09:00:00Z",
+    "_id": "prod-020"
+  },
+  {
+    "id": "prod-021",
+    "name": "SmartStation Artist Complete Calligraphy & Brush Lettering Kit",
+    "slug": "smartstation-artist-calligraphy-brush-lettering-kit",
+    "sku": "GFT-SS-CAL-KIT",
+    "barcode": "8908012345155",
+    "brand": "Camlin Kokuyo",
+    "brandId": "brand-camlin",
+    "category": "Gift Sets & Combos",
+    "categoryId": "cat-gifts",
+    "subcategory": "Brush Pens",
+    "subcategoryId": "sub-brush-pens",
+    "description": "Deluxe gift box including 12 flexible tip watercolour brush pens, 1 dual-tip calligraphy marker, 1 metallic gold fineliner, 1 A5 smooth lettering practice pad (120 GSM), and step-by-step guidebook.",
+    "shortDescription": "12 brush pens + calligraphy markers + 120 GSM practice pad in gift box.",
+    "price": 499,
+    "mrp": 699,
+    "discountPercentage": 29,
+    "taxPercentage": 12,
+    "stock": 35,
+    "lowStockThreshold": 8,
+    "images": [
+      "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.9,
+    "reviewCount": 74,
+    "isNew": true,
+    "isBestseller": true,
+    "isFeatured": true,
+    "purposeTags": [
+      "Art",
+      "Gift",
+      "Journaling",
+      "Drawing"
+    ],
+    "specifications": {
+      "colorCount": 14,
+      "suitableFor": "Modern Calligraphy, Hand Lettering, Journaling",
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v21-1",
+        "name": "Complete Kit in Gift Box",
+        "sku": "GFT-SS-CAL-KIT",
+        "price": 499,
+        "mrp": 699,
+        "stock": 35
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-10-01T10:00:00Z",
+    "_id": "prod-021"
+  },
+  {
+    "id": "prod-022",
+    "name": "Reynolds 045 Fine Carbide Ballpoint Pen Blue (Pack of 20)",
+    "slug": "reynolds-045-fine-carbide-ballpoint-pen-blue-pack-20",
+    "sku": "PEN-REY-045-BLU-20",
+    "barcode": "8901765004523",
+    "brand": "Reynolds",
+    "brandId": "brand-reynolds",
+    "category": "Writing Instruments",
+    "categoryId": "cat-writing",
+    "subcategory": "Ballpoint Pens",
+    "subcategoryId": "sub-ball-pens",
+    "description": "The legendary hexagonal white barrel ball pen that has powered Indian students for generations. Laser tip fine point guarantees smooth uninterrupted writing with zero blotches.",
+    "shortDescription": "The classic non-slip hexagonal ball pen. Laser tip. Pack of 20.",
+    "price": 130,
+    "mrp": 160,
+    "discountPercentage": 19,
+    "taxPercentage": 18,
+    "stock": 150,
+    "lowStockThreshold": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1585336261026-407137f61fc7?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.7,
+    "reviewCount": 280,
+    "isNew": false,
+    "isBestseller": true,
+    "isFeatured": false,
+    "purposeTags": [
+      "School",
+      "College",
+      "Exam",
+      "Office"
+    ],
+    "specifications": {
+      "writingType": "Ball",
+      "tipSize": "0.7mm",
+      "inkColor": "Blue",
+      "packSize": 20,
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v22-1",
+        "name": "Blue (Pack of 20)",
+        "sku": "PEN-REY-045-BLU-20",
+        "color": "Blue",
+        "packSize": 20,
+        "price": 130,
+        "mrp": 160,
+        "stock": 150
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-10-03T11:00:00Z",
+    "_id": "prod-022"
+  },
+  {
+    "id": "prod-023",
+    "name": "Classmate Drawing Book Spiral Bound A3 Size (40 Pages 100 GSM)",
+    "slug": "classmate-drawing-book-spiral-bound-a3-size",
+    "sku": "NOTE-CLS-DRW-A3",
+    "barcode": "8901030456123",
+    "brand": "Classmate",
+    "brandId": "brand-classmate",
+    "category": "Notebooks & Paper",
+    "categoryId": "cat-notebooks",
+    "subcategory": "Drawing Books",
+    "subcategoryId": "sub-drawing-books",
+    "description": "Heavyweight 100 GSM cartridge drawing paper suited for dry and wet media including graphite, oil pastels, poster colours, and colour pencils. Heavy duty protective cardboard backboard.",
+    "shortDescription": "100 GSM premium acid-free cartridge paper. A3 landscape spiral.",
+    "price": 120,
+    "mrp": 145,
+    "discountPercentage": 17,
+    "taxPercentage": 12,
+    "stock": 60,
+    "lowStockThreshold": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 92,
+    "isNew": false,
+    "isBestseller": true,
+    "isFeatured": true,
+    "isEcoFriendly": true,
+    "purposeTags": [
+      "Art",
+      "Drawing",
+      "School",
+      "College"
+    ],
+    "specifications": {
+      "paperSize": "A3 (29.7 x 42 cm)",
+      "pages": 40,
+      "paperGsm": 100,
+      "ruling": "Plain",
+      "binding": "Spiral",
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v23-1",
+        "name": "A3 Landscape Spiral (40 Pages)",
+        "sku": "NOTE-CLS-DRW-A3",
+        "size": "A3",
+        "price": 120,
+        "mrp": 145,
+        "stock": 60
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-10-05T14:00:00Z",
+    "_id": "prod-023"
+  },
+  {
+    "id": "prod-024",
+    "name": "Casio FX-991CW Scientific Calculator (ClassWiz Edition)",
+    "slug": "casio-fx-991cw-scientific-calculator-classwiz",
+    "sku": "OFC-CAS-991CW",
+    "barcode": "4549526614125",
+    "brand": "Kangaro",
+    "brandId": "brand-kangaroo",
+    "category": "Office Supplies",
+    "categoryId": "cat-office",
+    "subcategory": "Calculators",
+    "subcategoryId": "sub-calculators",
+    "description": "Standard approved scientific calculator for engineering, commerce and CBSE/ICSE college examinations. Features 540+ functions, natural textbook display, QR code result graphing, and twin solar/battery power.",
+    "shortDescription": "540+ functions natural textbook display scientific calculator.",
+    "price": 1399,
+    "mrp": 1595,
+    "discountPercentage": 12,
+    "taxPercentage": 18,
+    "stock": 28,
+    "lowStockThreshold": 6,
+    "images": [
+      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.9,
+    "reviewCount": 240,
+    "isNew": false,
+    "isBestseller": true,
+    "isFeatured": true,
+    "purposeTags": [
+      "College",
+      "Exam",
+      "Office"
+    ],
+    "specifications": {
+      "material": "Hard Protective Slide-on Case with High-contrast LCD",
+      "warranty": "3 Years Casio Warranty",
+      "countryOfOrigin": "Thailand"
+    },
+    "variants": [
+      {
+        "id": "v24-1",
+        "name": "ClassWiz Edition Black",
+        "sku": "OFC-CAS-991CW-BLK",
+        "color": "Black",
+        "price": 1399,
+        "mrp": 1595,
+        "stock": 28
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-10-08T09:00:00Z",
+    "_id": "prod-024"
+  },
+  {
+    "id": "prod-025",
+    "name": "Luxor Fine Permanent Marker Assorted Colours (Pack of 4)",
+    "slug": "luxor-fine-permanent-marker-assorted-pack-of-4",
+    "sku": "PEN-LUX-PERM-04",
+    "barcode": "8901765032014",
+    "brand": "Luxor",
+    "brandId": "brand-luxor",
+    "category": "Writing Instruments",
+    "categoryId": "cat-writing",
+    "subcategory": "Markers",
+    "subcategoryId": "sub-highlighters",
+    "description": "Quick-drying waterproof permanent ink marker that writes on almost any surface including plastic, metal, cardboard, CDs, glass, and wood. Bullet tip creates clean bold 1.0mm lines.",
+    "shortDescription": "Waterproof smudge-free permanent markers: Black, Blue, Red, Green.",
+    "price": 95,
+    "mrp": 120,
+    "discountPercentage": 21,
+    "taxPercentage": 18,
+    "stock": 88,
+    "lowStockThreshold": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1585336261026-407137f61fc7?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.6,
+    "reviewCount": 71,
+    "isNew": false,
+    "isBestseller": false,
+    "isFeatured": false,
+    "purposeTags": [
+      "Office",
+      "School",
+      "College",
+      "Craft"
+    ],
+    "specifications": {
+      "writingType": "Marker",
+      "tipSize": "1.0mm Bullet",
+      "packSize": 4,
+      "inkColor": "Assorted 4 Colours",
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v25-1",
+        "name": "Pack of 4 Assorted",
+        "sku": "PEN-LUX-PERM-04",
+        "packSize": 4,
+        "price": 95,
+        "mrp": 120,
+        "stock": 88
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-10-10T12:00:00Z",
+    "_id": "prod-025"
+  },
+  {
+    "id": "prod-026",
+    "name": "DOMS Champions Acrylic Colour Set (12 Shades x 10ml Tubes)",
+    "slug": "doms-champions-acrylic-colour-set-12-shades",
+    "sku": "ART-DOM-ACR-12",
+    "barcode": "8906073778012",
+    "brand": "DOMS",
+    "brandId": "brand-doms",
+    "category": "Art Supplies",
+    "categoryId": "cat-art",
+    "subcategory": "Paints & Colours",
+    "subcategoryId": "sub-colours-paints",
+    "description": "Heavy body artist acrylic paints with brilliant satin finish and high pigment concentration. Rapid drying waterproof emulsion suitable for painting on canvas, paper, wood, terracotta, and fabric.",
+    "shortDescription": "12 rich pigment acrylic colour tubes with mixing palette.",
+    "price": 195,
+    "mrp": 240,
+    "discountPercentage": 19,
+    "taxPercentage": 12,
+    "stock": 50,
+    "lowStockThreshold": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 84,
+    "isNew": false,
+    "isBestseller": true,
+    "isFeatured": true,
+    "purposeTags": [
+      "Art",
+      "Drawing",
+      "Gift",
+      "Craft"
+    ],
+    "specifications": {
+      "colorCount": 12,
+      "suitableFor": "Canvas, Paper, Terracotta, Wood",
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v26-1",
+        "name": "12 Shades x 10ml Tubes",
+        "sku": "ART-DOM-ACR-12",
+        "price": 195,
+        "mrp": 240,
+        "stock": 50
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-10-12T14:30:00Z",
+    "_id": "prod-026"
+  },
+  {
+    "id": "prod-027",
+    "name": "Classmate Octane Neon Gel Pen (Pack of 5 Assorted)",
+    "slug": "classmate-octane-neon-gel-pen-pack-of-5",
+    "sku": "PEN-CLS-OCT-05",
+    "barcode": "8901030554129",
+    "brand": "Classmate",
+    "brandId": "brand-classmate",
+    "category": "Writing Instruments",
+    "categoryId": "cat-writing",
+    "subcategory": "Gel Pens",
+    "subcategoryId": "sub-gel-pens",
+    "description": "Super fast Japanese waterproof gel ink with ergonomic rubber contour grip. Glides effortlessly over ruled notebook pages without smearing or scratchiness.",
+    "shortDescription": "0.5mm Japanese gel ink for high speed exam writing.",
+    "price": 50,
+    "mrp": 60,
+    "discountPercentage": 17,
+    "taxPercentage": 18,
+    "stock": 160,
+    "lowStockThreshold": 35,
+    "images": [
+      "https://images.unsplash.com/photo-1585336261026-407137f61fc7?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.7,
+    "reviewCount": 145,
+    "isNew": false,
+    "isBestseller": true,
+    "isFeatured": false,
+    "purposeTags": [
+      "School",
+      "College",
+      "Exam"
+    ],
+    "specifications": {
+      "writingType": "Gel",
+      "tipSize": "0.5mm",
+      "inkColor": "Blue & Black",
+      "packSize": 5,
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v27-1",
+        "name": "Blue Gel (Pack of 5)",
+        "sku": "PEN-CLS-OCT-BLU-05",
+        "color": "Blue",
+        "packSize": 5,
+        "price": 50,
+        "mrp": 60,
+        "stock": 100
+      },
+      {
+        "id": "v27-2",
+        "name": "Black Gel (Pack of 5)",
+        "sku": "PEN-CLS-OCT-BLK-05",
+        "color": "Black",
+        "packSize": 5,
+        "price": 50,
+        "mrp": 60,
+        "stock": 60
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-10-14T10:00:00Z",
+    "_id": "prod-027"
+  },
+  {
+    "id": "prod-028",
+    "name": "SmartStation Back-to-College All-in-One Desk Bundle",
+    "slug": "smartstation-back-to-college-all-in-one-desk-bundle",
+    "sku": "GFT-SS-COL-BND",
+    "barcode": "8908012345201",
+    "brand": "Classmate",
+    "brandId": "brand-classmate",
+    "category": "Gift Sets & Combos",
+    "categoryId": "cat-gifts",
+    "subcategory": "Gift Sets",
+    "subcategoryId": "sub-brush-pens",
+    "description": "Complete academic starter kit curated for college students. Includes 2 Classmate Pulse spiral notebooks, 1 pack of 5 pastel highlighters, 3 Pentel EnerGel gel pens, 1 Post-it notes cube, and 1 stainless steel metal mesh desk organizer.",
+    "shortDescription": "2 Notebooks + 5 Highlighters + 3 EnerGel Pens + Sticky Notes + Desk Caddy.",
+    "price": 649,
+    "mrp": 899,
+    "discountPercentage": 28,
+    "taxPercentage": 12,
+    "stock": 25,
+    "lowStockThreshold": 5,
+    "images": [
+      "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.9,
+    "reviewCount": 89,
+    "isNew": true,
+    "isBestseller": true,
+    "isFeatured": true,
+    "purposeTags": [
+      "College",
+      "Study Desk",
+      "Gift",
+      "Exam"
+    ],
+    "specifications": {
+      "packSize": 12,
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v28-1",
+        "name": "Curated College Kit",
+        "sku": "GFT-SS-COL-BND",
+        "price": 649,
+        "mrp": 899,
+        "stock": 25
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-10-16T11:00:00Z",
+    "_id": "prod-028"
+  },
+  {
+    "id": "prod-029",
+    "name": "JK Copier A4 Paper 75 GSM (Ream of 500 Sheets)",
+    "slug": "jk-copier-a4-paper-75-gsm-500-sheets",
+    "sku": "OFC-JK-A4-500",
+    "barcode": "8901234567890",
+    "brand": "Kangaro",
+    "brandId": "brand-kangaroo",
+    "category": "Office Supplies",
+    "categoryId": "cat-office",
+    "subcategory": "Files & Folders",
+    "subcategoryId": "sub-files-folders",
+    "description": "India’s most trusted copier paper with ColorLok technology. Exceptional brightness and surface smoothness prevents printer jams and produces crisp black text and rich colour prints.",
+    "shortDescription": "75 GSM high brightness copier paper for laser and inkjet printers.",
+    "price": 330,
+    "mrp": 390,
+    "discountPercentage": 15,
+    "taxPercentage": 12,
+    "stock": 110,
+    "lowStockThreshold": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 310,
+    "isNew": false,
+    "isBestseller": true,
+    "isFeatured": true,
+    "isEcoFriendly": true,
+    "purposeTags": [
+      "Office",
+      "College",
+      "School"
+    ],
+    "specifications": {
+      "paperSize": "A4 (21 x 29.7 cm)",
+      "pages": 500,
+      "paperGsm": 75,
+      "countryOfOrigin": "India"
+    },
+    "variants": [
+      {
+        "id": "v29-1",
+        "name": "1 Ream (500 Sheets)",
+        "sku": "OFC-JK-A4-500",
+        "packSize": 1,
+        "price": 330,
+        "mrp": 390,
+        "stock": 80
+      },
+      {
+        "id": "v29-2",
+        "name": "Case of 5 Reams (2500 Sheets)",
+        "sku": "OFC-JK-A4-2500",
+        "packSize": 5,
+        "price": 1599,
+        "mrp": 1950,
+        "stock": 30
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-10-18T10:00:00Z",
+    "_id": "prod-029"
+  },
+  {
+    "id": "prod-030",
+    "name": "Maped Connect Dual Sharpener & Dust-Free Eraser Combo",
+    "slug": "maped-connect-dual-sharpener-eraser-combo",
+    "sku": "SCH-MAP-CON-DUO",
+    "barcode": "3154140023412",
+    "brand": "Maped",
+    "brandId": "brand-maped",
+    "category": "School Essentials",
+    "categoryId": "cat-school",
+    "subcategory": "Erasers & Sharpeners",
+    "subcategoryId": "sub-erasers-sharpeners",
+    "description": "Innovative interlocking 2-in-1 tool featuring a high precision twin-hole pencil sharpener on one end and a capped rotating eraser on the other. Fits neatly inside student pencil boxes.",
+    "shortDescription": "Dual hole sharpener with shavings canister + protective capped eraser.",
+    "price": 65,
+    "mrp": 85,
+    "discountPercentage": 24,
+    "taxPercentage": 12,
+    "stock": 95,
+    "lowStockThreshold": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1588072432836-e10032774350?w=700&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=700&auto=format&fit=crop&q=80"
+    ],
+    "rating": 4.7,
+    "reviewCount": 48,
+    "isNew": false,
+    "isBestseller": false,
+    "isFeatured": false,
+    "purposeTags": [
+      "School",
+      "Exam",
+      "College"
+    ],
+    "specifications": {
+      "material": "Impact Resistant Polycarbonate",
+      "countryOfOrigin": "France / India"
+    },
+    "variants": [
+      {
+        "id": "v30-1",
+        "name": "Vibrant Cyan / Lime",
+        "sku": "SCH-MAP-CON-DUO",
+        "price": 65,
+        "mrp": 85,
+        "stock": 95
+      }
+    ],
+    "status": "active",
+    "createdAt": "2026-10-20T12:00:00Z",
+    "_id": "prod-030"
+  }
+]

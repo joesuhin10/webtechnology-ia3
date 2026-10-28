@@ -1,0 +1,63 @@
+[
+  {
+    "id": "rev-01",
+    "productId": "prod-001",
+    "productName": "Classmate Pulse 6-Subject Spiral Notebook A4",
+    "userId": "user-customer",
+    "userName": "Joe Student",
+    "userAvatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=150&auto=format&fit=crop&q=80",
+    "rating": 5,
+    "title": "Hands down the best college notebook for engineering!",
+    "comment": "The paper quality is truly top-tier. Even with 0.7mm fountain and gel pens, there is zero ghosting or bleeding to the back page. The dividers make keeping semester notes organized a breeze.",
+    "verifiedPurchase": true,
+    "helpfulCount": 28,
+    "status": "approved",
+    "createdAt": "2026-10-21T16:00:00Z",
+    "_id": "rev-01"
+  },
+  {
+    "id": "rev-02",
+    "productId": "prod-004",
+    "productName": "Pentel EnerGel Retractable Liquid Gel Pen 0.5mm",
+    "userId": "user-customer",
+    "userName": "Joe Student",
+    "rating": 5,
+    "title": "Lifesaver for left-handed writers!",
+    "comment": "I write fast and normally my palm gets covered in ink. EnerGel dries within half a second! Absolutely smooth line without scratching the paper.",
+    "verifiedPurchase": true,
+    "helpfulCount": 19,
+    "status": "approved",
+    "createdAt": "2026-10-22T09:30:00Z",
+    "_id": "rev-02"
+  },
+  {
+    "id": "rev-03",
+    "productId": "prod-006",
+    "productName": "Flair Pastel Highlighter Set",
+    "userId": "user-3",
+    "userName": "Priya Sharma",
+    "rating": 5,
+    "title": "Aesthetic pastel colors, no bleeding",
+    "comment": "Much better than blinding neon highlighters. The soft lavender and mint shades make studying medical textbooks pleasing to the eye.",
+    "verifiedPurchase": true,
+    "helpfulCount": 14,
+    "status": "approved",
+    "createdAt": "2026-10-23T11:00:00Z",
+    "_id": "rev-03"
+  },
+  {
+    "id": "rev-04",
+    "productId": "prod-008",
+    "productName": "Parker Vector Matte Black Fountain Pen",
+    "userId": "user-4",
+    "userName": "Rahul Verma",
+    "rating": 4,
+    "title": "Classic executive feel with great ink flow",
+    "comment": "Very sleek pen for office note-taking and signatures. Gives a sophisticated weight in hand.",
+    "verifiedPurchase": true,
+    "helpfulCount": 8,
+    "status": "approved",
+    "createdAt": "2026-10-24T15:20:00Z",
+    "_id": "rev-04"
+  }
+]

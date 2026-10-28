@@ -1,0 +1,108 @@
+[
+  {
+    "id": "user-admin",
+    "name": "Admin Joe",
+    "email": "admin@smartstation.com",
+    "password": "admin123",
+    "role": "admin",
+    "phone": "+91 98765 43210",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "rewardPoints": 1250,
+    "totalSpent": 48200,
+    "addresses": [
+      {
+        "id": "addr-admin-1",
+        "fullName": "Admin Joe",
+        "phone": "+91 98765 43210",
+        "email": "admin@smartstation.com",
+        "addressLine": "SmartStation HQ, 4th Floor, Tech Innovation Hub, Indiranagar",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560038",
+        "landmark": "Near Metro Station",
+        "type": "Work",
+        "isDefault": true
+      }
+    ],
+    "createdAt": "2026-01-01T00:00:00Z",
+    "_id": "user-admin"
+  },
+  {
+    "id": "user-customer",
+    "name": "Joe Student",
+    "email": "customer@smartstation.com",
+    "password": "password123",
+    "role": "customer",
+    "phone": "+91 98111 22334",
+    "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=150&auto=format&fit=crop&q=80",
+    "dob": "2004-05-18",
+    "rewardPoints": 240,
+    "totalSpent": 4890,
+    "addresses": [
+      {
+        "id": "addr-cust-1",
+        "fullName": "Joe Student",
+        "phone": "+91 98111 22334",
+        "email": "customer@smartstation.com",
+        "addressLine": "Flat 402, Lotus Pride Apartments, 12th Main Road, HSR Layout Sector 2",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560102",
+        "landmark": "Opposite BDA Complex",
+        "type": "Home",
+        "isDefault": true
+      },
+      {
+        "id": "addr-cust-2",
+        "fullName": "Joe Student (Hostel)",
+        "phone": "+91 98111 22334",
+        "email": "customer@smartstation.com",
+        "addressLine": "Room 214, Ganga Boys Hostel, National Institute of Technology",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560064",
+        "landmark": "Campus Gate 3",
+        "type": "Other",
+        "isDefault": false
+      }
+    ],
+    "createdAt": "2026-02-14T10:00:00Z",
+    "_id": "user-customer"
+  },
+  {
+    "id": "user-3",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@example.com",
+    "role": "customer",
+    "phone": "+91 98450 12345",
+    "rewardPoints": 180,
+    "totalSpent": 3450,
+    "addresses": [],
+    "createdAt": "2026-03-01T12:00:00Z",
+    "_id": "user-3"
+  },
+  {
+    "id": "user-4",
+    "name": "Rahul Verma",
+    "email": "rahul.verma@example.com",
+    "role": "customer",
+    "phone": "+91 97110 56789",
+    "rewardPoints": 310,
+    "totalSpent": 6200,
+    "addresses": [],
+    "createdAt": "2026-03-10T14:00:00Z",
+    "_id": "user-4"
+  },
+  {
+    "id": "user-5",
+    "name": "Ananya Deshmukh",
+    "email": "ananya.art@example.com",
+    "role": "customer",
+    "phone": "+91 99220 88776",
+    "rewardPoints": 450,
+    "totalSpent": 8900,
+    "addresses": [],
+    "createdAt": "2026-03-15T09:00:00Z",
+    "_id": "user-5"
+  }
+]

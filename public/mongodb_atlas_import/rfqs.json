@@ -1,0 +1,46 @@
+[
+  {
+    "organization": "DPS International School",
+    "contactPerson": "Principal Sharma",
+    "email": "procurement@dpsdelhi.edu",
+    "phone": "+91 98123 45678",
+    "targetCategory": "Writing Instruments",
+    "requiredProducts": "500 Classmate notebooks and 500 DOMS ball pens for term exams",
+    "estimatedQuantity": 1000,
+    "targetDeliveryDate": "2026-11-15",
+    "id": "rfq-mvpn71mx",
+    "status": "pending",
+    "createdAt": "2026-10-26T19:21:16.809Z",
+    "_id": "rfq-mvpn71mx"
+  },
+  {
+    "id": "rfq-02",
+    "organization": "FinTech Dynamics Pvt Ltd",
+    "contactPerson": "Arun Iyer (Admin Manager)",
+    "email": "admin@fintechdynamics.com",
+    "phone": "+91 97110 33445",
+    "targetCategory": "Office Supplies",
+    "requiredProducts": "200 A5 Executive Notebooks, 200 Parker Vector Pens with company engraving, 50 Desk Organizers",
+    "estimatedQuantity": 450,
+    "targetDeliveryDate": "2026-11-20",
+    "additionalNotes": "Corporate gift hampers for annual employee day.",
+    "status": "pending",
+    "createdAt": "2026-10-25T14:30:00Z",
+    "_id": "rfq-02"
+  },
+  {
+    "id": "rfq-01",
+    "organization": "Greenwood International School",
+    "contactPerson": "Sunita Menon (Procurement Dept)",
+    "email": "procurement@greenwood.edu.in",
+    "phone": "+91 98450 99881",
+    "targetCategory": "School Essentials",
+    "requiredProducts": "500 Classmate A4 Notebooks, 500 Camlin Geometry Boxes, 1000 DOMS Mechanical Pencils",
+    "estimatedQuantity": 2000,
+    "targetDeliveryDate": "2026-11-15",
+    "additionalNotes": "Require school logo custom sticker on notebooks if possible.",
+    "status": "quoted",
+    "createdAt": "2026-10-22T10:00:00Z",
+    "_id": "rfq-01"
+  }
+]

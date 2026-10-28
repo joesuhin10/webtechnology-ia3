@@ -1,0 +1,352 @@
+[
+  {
+    "customerId": "user-cust-1",
+    "customerName": "Joe Student",
+    "customerEmail": "customer@smartstation.com",
+    "customerPhone": "+91 98111 22334",
+    "shippingAddress": {
+      "fullName": "Joe Student",
+      "phone": "+91 98111 22334",
+      "email": "customer@smartstation.com",
+      "addressLine": "Flat 402, Lotus Pride Apartments, 12th Main Road, HSR Layout Sector 2",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pincode": "560102",
+      "type": "Home"
+    },
+    "items": [
+      {
+        "productId": "prod-004",
+        "name": "Pentel EnerGel Retractable Liquid Gel Pen 0.5mm (Pack of 3)",
+        "brand": "Pentel",
+        "price": 175,
+        "quantity": 2,
+        "image": "https://images.unsplash.com/photo-1585336261026-407137f61fc7?w=700&auto=format&fit=crop&q=80",
+        "sku": "PEN-PEN-ENE-05-3"
+      }
+    ],
+    "subtotal": 350,
+    "discount": 0,
+    "couponCode": "WELCOME10",
+    "couponDiscount": 35,
+    "pointsRedeemed": 20,
+    "pointsDiscount": 20,
+    "shippingFee": 0,
+    "tax": 0,
+    "totalAmount": 295,
+    "paymentMethod": "UPI",
+    "id": "ord-mvpn71ld",
+    "orderNumber": "SS-2026-86332",
+    "trackingNumber": "SS-310730-IN",
+    "deliveryPartner": "BlueDart Express",
+    "statusHistory": [
+      {
+        "status": "confirmed",
+        "timestamp": "2026-10-26T19:21:16.753Z",
+        "note": "Payment verified and order confirmed"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2026-10-26T19:21:16.793Z",
+        "note": "Payment verified via UPI"
+      }
+    ],
+    "createdAt": "2026-10-26T19:21:16.753Z",
+    "orderStatus": "confirmed",
+    "_id": "ord-mvpn71ld"
+  },
+  {
+    "id": "ord-1001",
+    "orderNumber": "SS-2026-88412",
+    "customerId": "user-customer",
+    "customerName": "Joe Student",
+    "customerEmail": "customer@smartstation.com",
+    "customerPhone": "+91 98111 22334",
+    "shippingAddress": {
+      "id": "addr-cust-1",
+      "fullName": "Joe Student",
+      "phone": "+91 98111 22334",
+      "email": "customer@smartstation.com",
+      "addressLine": "Flat 402, Lotus Pride Apartments, 12th Main Road, HSR Layout Sector 2",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pincode": "560102",
+      "landmark": "Opposite BDA Complex",
+      "type": "Home",
+      "isDefault": true
+    },
+    "items": [
+      {
+        "productId": "prod-001",
+        "name": "Classmate Pulse 6-Subject Spiral Notebook A4",
+        "brand": "Classmate",
+        "price": 185,
+        "quantity": 2,
+        "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=700&auto=format&fit=crop&q=80",
+        "sku": "NOTE-CLS-PUL-A4-01",
+        "variantName": "300 Pages - Single"
+      },
+      {
+        "productId": "prod-004",
+        "name": "Pentel EnerGel Retractable Liquid Gel Pen 0.5mm (Pack of 3)",
+        "brand": "Pentel",
+        "price": 175,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1585336261026-407137f61fc7?w=700&auto=format&fit=crop&q=80",
+        "sku": "PEN-PEN-ENE-05-BLU",
+        "variantName": "Blue Ink (Pack of 3)"
+      }
+    ],
+    "subtotal": 545,
+    "discount": 50,
+    "couponCode": "SAVE50",
+    "couponDiscount": 50,
+    "pointsRedeemed": 0,
+    "pointsDiscount": 0,
+    "shippingFee": 0,
+    "tax": 48,
+    "totalAmount": 543,
+    "paymentMethod": "UPI",
+    "paymentStatus": "paid",
+    "orderStatus": "delivered",
+    "statusHistory": [
+      {
+        "status": "pending",
+        "timestamp": "2026-10-18T10:15:00Z",
+        "note": "Order placed by customer"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2026-10-18T10:20:00Z",
+        "note": "Payment verified via UPI"
+      },
+      {
+        "status": "packed",
+        "timestamp": "2026-10-18T14:30:00Z",
+        "note": "Packed at Bengaluru Central Fulfillment Center"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2026-10-19T08:00:00Z",
+        "note": "Dispatched via BlueDart Express"
+      },
+      {
+        "status": "out_for_delivery",
+        "timestamp": "2026-10-20T09:15:00Z",
+        "note": "Courier out for delivery"
+      },
+      {
+        "status": "delivered",
+        "timestamp": "2026-10-20T14:40:00Z",
+        "note": "Delivered to recipient with OTP"
+      }
+    ],
+    "trackingNumber": "BD-884120921-IN",
+    "deliveryPartner": "BlueDart Express",
+    "estimatedDeliveryDate": "2026-10-20",
+    "createdAt": "2026-10-18T10:15:00Z",
+    "_id": "ord-1001"
+  },
+  {
+    "id": "ord-1002",
+    "orderNumber": "SS-2026-88540",
+    "customerId": "user-customer",
+    "customerName": "Joe Student",
+    "customerEmail": "customer@smartstation.com",
+    "customerPhone": "+91 98111 22334",
+    "shippingAddress": {
+      "id": "addr-cust-1",
+      "fullName": "Joe Student",
+      "phone": "+91 98111 22334",
+      "email": "customer@smartstation.com",
+      "addressLine": "Flat 402, Lotus Pride Apartments, 12th Main Road, HSR Layout Sector 2",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pincode": "560102",
+      "landmark": "Opposite BDA Complex",
+      "type": "Home",
+      "isDefault": true
+    },
+    "items": [
+      {
+        "productId": "prod-007",
+        "name": "SmartStation Minimalist Academic Habit & Daily Planner A5",
+        "brand": "Classmate",
+        "price": 349,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=700&auto=format&fit=crop&q=80",
+        "sku": "PLAN-SS-ACAD-A5-SGE",
+        "variantName": "Sage Green Hardcover"
+      },
+      {
+        "productId": "prod-006",
+        "name": "Flair Pastel Highlighter Set (Pack of 5 Soft Pastel Shades)",
+        "brand": "Flair",
+        "price": 99,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1585336261026-407137f61fc7?w=700&auto=format&fit=crop&q=80",
+        "sku": "PEN-FLA-PAS-05",
+        "variantName": "Pack of 5 Pastel Shades"
+      }
+    ],
+    "subtotal": 448,
+    "discount": 44,
+    "couponCode": "WELCOME10",
+    "couponDiscount": 44,
+    "pointsRedeemed": 0,
+    "pointsDiscount": 0,
+    "shippingFee": 40,
+    "tax": 38,
+    "totalAmount": 482,
+    "paymentMethod": "Card",
+    "paymentStatus": "paid",
+    "orderStatus": "shipped",
+    "statusHistory": [
+      {
+        "status": "pending",
+        "timestamp": "2026-10-24T14:00:00Z",
+        "note": "Order placed"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2026-10-24T14:05:00Z",
+        "note": "Payment processed"
+      },
+      {
+        "status": "packed",
+        "timestamp": "2026-10-24T18:00:00Z",
+        "note": "Package sealed with safety tape"
+      },
+      {
+        "status": "shipped",
+        "timestamp": "2026-10-25T07:30:00Z",
+        "note": "In transit to local hub"
+      }
+    ],
+    "trackingNumber": "DTDC-442109-IN",
+    "deliveryPartner": "DTDC Courier",
+    "estimatedDeliveryDate": "2026-10-27",
+    "createdAt": "2026-10-24T14:00:00Z",
+    "_id": "ord-1002"
+  },
+  {
+    "id": "ord-1003",
+    "orderNumber": "SS-2026-88719",
+    "customerId": "user-3",
+    "customerName": "Priya Sharma",
+    "customerEmail": "priya.sharma@example.com",
+    "customerPhone": "+91 98450 12345",
+    "shippingAddress": {
+      "id": "addr-3",
+      "fullName": "Priya Sharma",
+      "phone": "+91 98450 12345",
+      "email": "priya.sharma@example.com",
+      "addressLine": "Apt 12B, Skyline Towers, MG Road",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "411001",
+      "type": "Home",
+      "isDefault": true
+    },
+    "items": [
+      {
+        "productId": "prod-008",
+        "name": "Parker Vector Matte Black Fountain Pen with Chrome Trim",
+        "brand": "Parker",
+        "price": 499,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1569683795645-b62e50fbf103?w=700&auto=format&fit=crop&q=80",
+        "sku": "PEN-PAR-VEC-FP-BLK"
+      }
+    ],
+    "subtotal": 499,
+    "discount": 50,
+    "couponCode": "SAVE50",
+    "couponDiscount": 50,
+    "pointsRedeemed": 0,
+    "pointsDiscount": 0,
+    "shippingFee": 0,
+    "tax": 42,
+    "totalAmount": 491,
+    "paymentMethod": "UPI",
+    "paymentStatus": "paid",
+    "orderStatus": "packed",
+    "statusHistory": [
+      {
+        "status": "pending",
+        "timestamp": "2026-10-25T11:00:00Z",
+        "note": "Order placed"
+      },
+      {
+        "status": "confirmed",
+        "timestamp": "2026-10-25T11:02:00Z",
+        "note": "Payment verified"
+      },
+      {
+        "status": "packed",
+        "timestamp": "2026-10-25T16:00:00Z",
+        "note": "Packed with bubble cushioning"
+      }
+    ],
+    "trackingNumber": "DEL-991204-IN",
+    "deliveryPartner": "Delhivery",
+    "estimatedDeliveryDate": "2026-10-28",
+    "createdAt": "2026-10-25T11:00:00Z",
+    "_id": "ord-1003"
+  },
+  {
+    "id": "ord-1004",
+    "orderNumber": "SS-2026-88890",
+    "customerId": "user-4",
+    "customerName": "Rahul Verma",
+    "customerEmail": "rahul.verma@example.com",
+    "customerPhone": "+91 97110 56789",
+    "shippingAddress": {
+      "id": "addr-4",
+      "fullName": "Rahul Verma",
+      "phone": "+91 97110 56789",
+      "email": "rahul.verma@example.com",
+      "addressLine": "Sector 62, Block C, Innovation Hub",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "pincode": "201301",
+      "type": "Work",
+      "isDefault": true
+    },
+    "items": [
+      {
+        "productId": "prod-024",
+        "name": "Casio FX-991CW Scientific Calculator (ClassWiz Edition)",
+        "brand": "Kangaro",
+        "price": 1399,
+        "quantity": 1,
+        "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=700&auto=format&fit=crop&q=80",
+        "sku": "OFC-CAS-991CW-BLK"
+      }
+    ],
+    "subtotal": 1399,
+    "discount": 150,
+    "couponCode": "STUDENT15",
+    "couponDiscount": 150,
+    "pointsRedeemed": 0,
+    "pointsDiscount": 0,
+    "shippingFee": 0,
+    "tax": 120,
+    "totalAmount": 1369,
+    "paymentMethod": "COD",
+    "paymentStatus": "pending",
+    "orderStatus": "pending",
+    "statusHistory": [
+      {
+        "status": "pending",
+        "timestamp": "2026-10-26T16:30:00Z",
+        "note": "COD order placed, waiting verification call"
+      }
+    ],
+    "trackingNumber": "SHP-109283-IN",
+    "deliveryPartner": "Shadowfax",
+    "estimatedDeliveryDate": "2026-10-30",
+    "createdAt": "2026-10-26T16:30:00Z",
+    "_id": "ord-1004"
+  }
+]

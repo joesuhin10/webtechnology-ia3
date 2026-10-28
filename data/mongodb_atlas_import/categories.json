@@ -1,0 +1,122 @@
+[
+  {
+    "id": "cat-writing",
+    "name": "Writing Instruments",
+    "slug": "writing-instruments",
+    "description": "Ball pens, gel pens, fountain pens, mechanical pencils, and fine liners.",
+    "image": "/images/categories/writing-instruments.svg",
+    "iconName": "PenTool",
+    "displayOrder": 1,
+    "itemCount": 15,
+    "status": "active",
+    "_id": "cat-writing"
+  },
+  {
+    "id": "cat-notebooks",
+    "name": "Notebooks & Paper",
+    "slug": "notebooks-paper",
+    "description": "Spiral notebooks, hardcover journals, A4 registers, and sketchbooks.",
+    "image": "/images/categories/notebooks-paper.svg",
+    "iconName": "BookOpen",
+    "displayOrder": 2,
+    "itemCount": 12,
+    "status": "active",
+    "_id": "cat-notebooks"
+  },
+  {
+    "id": "cat-school",
+    "name": "School Essentials",
+    "slug": "school-essentials",
+    "description": "Geometry boxes, sharpeners, erasers, pencil cases, and water bottles.",
+    "image": "/images/categories/school-essentials.svg",
+    "iconName": "GraduationCap",
+    "displayOrder": 3,
+    "itemCount": 8,
+    "status": "active",
+    "_id": "cat-school"
+  },
+  {
+    "id": "cat-office",
+    "name": "Office Supplies",
+    "slug": "office-supplies",
+    "description": "Files, folders, staplers, calculators, sticky notes, and paper clips.",
+    "image": "/images/categories/office-supplies.svg",
+    "iconName": "Briefcase",
+    "displayOrder": 4,
+    "itemCount": 8,
+    "status": "active",
+    "_id": "cat-office"
+  },
+  {
+    "id": "cat-art",
+    "name": "Art Supplies",
+    "slug": "art-supplies",
+    "description": "Watercolours, acrylic paints, sketchbooks, canvas, and drawing pencils.",
+    "image": "/images/categories/art-supplies.svg",
+    "iconName": "Palette",
+    "displayOrder": 5,
+    "itemCount": 8,
+    "status": "active",
+    "_id": "cat-art"
+  },
+  {
+    "id": "cat-craft",
+    "name": "Craft & DIY",
+    "slug": "craft-diy",
+    "description": "Scissors, craft glue, origami papers, glitter pens, and tapes.",
+    "image": "/images/categories/craft-diy.svg",
+    "iconName": "Scissors",
+    "displayOrder": 6,
+    "itemCount": 5,
+    "status": "active",
+    "_id": "cat-craft"
+  },
+  {
+    "id": "cat-planning",
+    "name": "Planners & Journals",
+    "slug": "planners-journals",
+    "description": "Academic planners, undated daily trackers, habit diaries, and bullet dot grids.",
+    "image": "/images/categories/planners-journals.svg",
+    "iconName": "Calendar",
+    "displayOrder": 7,
+    "itemCount": 5,
+    "status": "active",
+    "_id": "cat-planning"
+  },
+  {
+    "id": "cat-desk",
+    "name": "Desk Organizers",
+    "slug": "desk-organizers",
+    "description": "Pen stands, multi-compartment mesh trays, bookends, and study lamps.",
+    "image": "/images/categories/desk-organizers.svg",
+    "iconName": "LayoutGrid",
+    "displayOrder": 8,
+    "itemCount": 5,
+    "status": "active",
+    "_id": "cat-desk"
+  },
+  {
+    "id": "cat-exam",
+    "name": "Exam Essentials",
+    "slug": "exam-essentials",
+    "description": "Transparent exam pouches, blue/black ball pens, exam pads, and clipboards.",
+    "image": "/images/categories/exam-essentials.svg",
+    "iconName": "CheckSquare",
+    "displayOrder": 9,
+    "itemCount": 6,
+    "status": "active",
+    "_id": "cat-exam"
+  },
+  {
+    "id": "cat-gifts",
+    "name": "Gift Sets & Combos",
+    "slug": "gift-sets-combos",
+    "description": "Curated stationery hampers, calligraphy starter kits, and gift boxes.",
+    "image": "/images/categories/gift-sets-combos.svg",
+    "iconName": "Gift",
+    "displayOrder": 10,
+    "itemCount": 6,
+    "status": "active",
+    "_id": "cat-gifts"
+  }
+]

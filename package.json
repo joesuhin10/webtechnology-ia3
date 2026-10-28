@@ -1,0 +1,36 @@
+{
+  "name": "web_tech_stationary",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "db:test": "node scripts/test_mongodb_connection.js",
+    "db:seed": "node scripts/seed_mongodb.js",
+    "db:reset": "node scripts/reset_and_seed_database.js",
+    "db:sql": "node scripts/generate_and_seed_sql.js",
+    "db:mysql": "node scripts/import_mysql.js",
+    "db:queries": "node scripts/run_sample_queries.js"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.4",
+    "lucide-react": "^1.16.0",
+    "mongodb": "^7.7.0",
+    "next": "16.4.3",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/turbopack": "^4",
+    "@types/canvas-confetti": "^1.9.0",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.3",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

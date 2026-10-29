@@ -74,7 +74,7 @@ export default function ComparePage() {
                         <X className="w-4 h-4" />
                       </button>
                       <img
-                        src={product.images[0]}
+                        src={product.images?.[0] || '/images/products/stationery-placeholder.svg'}
                         alt={product.name}
                         className="w-24 h-24 object-cover rounded-xl border border-slate-100 mb-2"
                       />

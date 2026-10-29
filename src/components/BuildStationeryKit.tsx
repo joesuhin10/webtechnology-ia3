@@ -159,7 +159,7 @@ export function BuildStationeryKit({ products }: BuildKitProps) {
                     </div>
 
                     <img
-                      src={p.images[0]}
+                      src={p.images?.[0] || '/images/products/stationery-placeholder.svg'}
                       alt={p.name}
                       className="w-12 h-12 rounded-xl object-cover border border-slate-100 shrink-0"
                       onError={(e) => {

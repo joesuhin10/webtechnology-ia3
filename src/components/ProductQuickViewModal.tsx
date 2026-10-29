@@ -14,7 +14,8 @@ interface QuickViewModalProps {
 
 export function ProductQuickViewModal({ product, isOpen, onClose }: QuickViewModalProps) {
   const { addToCart, toggleWishlist, isInWishlist } = useCart();
-  const [selectedImage, setSelectedImage] = useState(product.images[0]);
+  const images = Array.isArray(product.images) && product.images.length > 0 ? product.images : ['/images/products/stationery-placeholder.svg'];
+  const [selectedImage, setSelectedImage] = useState(images[0]);
   const [selectedVariant, setSelectedVariant] = useState<ProductVariant | undefined>(
     product.variants?.[0]
   );
@@ -65,9 +66,9 @@ export function ProductQuickViewModal({ product, isOpen, onClose }: QuickViewMod
           </div>
 
           {/* Thumbnail row */}
-          {product.images.length > 1 && (
+          {images.length > 1 && (
             <div className="flex gap-2 overflow-x-auto w-full pb-1">
-              {product.images.map((img, i) => (
+              {images.map((img, i) => (
                 <button
                   key={i}
                   onClick={() => setSelectedImage(img)}

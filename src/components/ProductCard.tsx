@@ -19,10 +19,11 @@ export function ProductCard({ product }: ProductCardProps) {
   const [addedAnimation, setAddedAnimation] = useState(false);
 
   const isSaved = isInWishlist(product.id);
-  const hasMultipleImages = product.images.length > 1;
-  const currentImage = isHovered && hasMultipleImages ? product.images[1] : product.images[0];
-  const isOutOfStock = product.stock <= 0;
-  const isLowStock = product.stock > 0 && product.stock <= product.lowStockThreshold;
+  const images = Array.isArray(product.images) && product.images.length > 0 ? product.images : ['/images/products/stationery-placeholder.svg'];
+  const hasMultipleImages = images.length > 1;
+  const currentImage = isHovered && hasMultipleImages ? images[1] : images[0];
+  const isOutOfStock = (product.stock ?? 0) <= 0;
+  const isLowStock = (product.stock ?? 0) > 0 && (product.stock ?? 0) <= (product.lowStockThreshold ?? 10);
 
   const handleAddToCart = (e: React.MouseEvent) => {
     e.preventDefault();

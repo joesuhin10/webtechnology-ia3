@@ -66,7 +66,7 @@ export default function ProductDetailPage() {
         if (!res.ok) throw new Error('Not found');
         const prodData: Product = await res.json();
         setProduct(prodData);
-        setSelectedImage(prodData.images[0] || '');
+        setSelectedImage(prodData.images?.[0] || '/images/products/stationery-placeholder.svg');
         setSelectedVariant(prodData.variants?.[0]);
 
         // Fetch related products from same category
@@ -242,9 +242,9 @@ export default function ProductDetailPage() {
               </div>
 
               {/* Multi-angle Thumbnails */}
-              {product.images.length > 1 && (
+              {(product.images?.length ?? 0) > 1 && (
                 <div className="flex gap-3 overflow-x-auto pb-1">
-                  {product.images.map((img, i) => (
+                  {product.images?.map((img, i) => (
                     <button
                       key={i}
                       onClick={() => setSelectedImage(img)}

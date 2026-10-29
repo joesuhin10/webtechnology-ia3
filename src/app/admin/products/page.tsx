@@ -85,7 +85,7 @@ export default function AdminProductsPage() {
       stock: p.stock,
       sku: p.sku,
       description: p.description,
-      image: p.images[0] || '',
+      image: p.images?.[0] || '',
     });
     setIsModalOpen(true);
   };
@@ -304,7 +304,7 @@ export default function AdminProductsPage() {
                     <td className="p-4">
                       <div className="flex items-center gap-3">
                         <img
-                          src={p.images[0]}
+                          src={p.images?.[0] || '/images/products/stationery-placeholder.svg'}
                           alt={p.name}
                           className="w-10 h-10 object-cover rounded-lg border border-slate-700 shrink-0"
                         />

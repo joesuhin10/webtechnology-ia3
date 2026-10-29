@@ -528,7 +528,7 @@ function ShopContent() {
                     className="bg-white rounded-2xl border border-slate-100 p-4 shadow-xs hover:shadow-md transition-all flex flex-col sm:flex-row gap-4 items-center"
                   >
                     <img
-                      src={product.images[0]}
+                      src={product.images?.[0] || '/images/products/stationery-placeholder.svg'}
                       alt={product.name}
                       className="w-28 h-28 object-cover rounded-xl border border-slate-100 shrink-0"
                       onError={(e) => {

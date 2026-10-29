@@ -81,7 +81,7 @@ export default function WishlistPage() {
 
                 <Link href={`/product/${product.slug}`} className="block aspect-square rounded-2xl overflow-hidden bg-slate-50 mb-4">
                   <img
-                    src={product.images[0]}
+                    src={product.images?.[0] || '/images/products/stationery-placeholder.svg'}
                     alt={product.name}
                     className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
                     onError={(e) => {

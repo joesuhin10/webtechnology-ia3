@@ -232,7 +232,7 @@ export function Navbar() {
                               className="flex items-center gap-3 p-2 hover:bg-slate-50 rounded-xl transition-colors group"
                             >
                               <img
-                                src={p.images[0]}
+                                src={p.images?.[0] || '/images/products/stationery-placeholder.svg'}
                                 alt={p.name}
                                 className="w-10 h-10 object-cover rounded-lg border border-slate-100 shrink-0"
                                 onError={(e) => {

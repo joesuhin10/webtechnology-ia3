@@ -129,7 +129,7 @@
       "mrp": 60,
       "discountPercentage": 18,
       "taxPercentage": 18,
-      "stock": 120,
+      "stock": 119,
       "lowStockThreshold": 25,
       "images": [
         "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=700&auto=format&fit=crop&q=80",
@@ -376,7 +376,7 @@
       "mrp": 125,
       "discountPercentage": 20,
       "taxPercentage": 18,
-      "stock": 140,
+      "stock": 139,
       "lowStockThreshold": 30,
       "images": [
         "https://images.unsplash.com/photo-1585336261026-407137f61fc7?w=700&auto=format&fit=crop&q=80",
@@ -434,7 +434,7 @@
       "mrp": 499,
       "discountPercentage": 30,
       "taxPercentage": 12,
-      "stock": 45,
+      "stock": 44,
       "lowStockThreshold": 10,
       "images": [
         "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=700&auto=format&fit=crop&q=80",
@@ -1864,9 +1864,6 @@
         "School",
         "College",
         "Office"
-      ],
-      "images": [
-        "https://images.unsplash.com/photo-1585336261026-407137f61fc7?w=700"
       ]
     }
   ],
@@ -2499,6 +2496,125 @@
       "deliveryPartner": "Shadowfax",
       "estimatedDeliveryDate": "2026-10-30",
       "createdAt": "2026-10-26T16:30:00Z"
+    },
+    {
+      "_id": "ord-mvsgmrwn",
+      "customerId": "user-customer",
+      "customerName": "THEEPAN1330",
+      "customerEmail": "THEEPAN1330@gmail.COM",
+      "customerPhone": "+91 98111 22334",
+      "shippingAddress": {
+        "id": "addr-default",
+        "fullName": "THEEPAN1330",
+        "phone": "+91 98111 22334",
+        "email": "THEEPAN1330@gmail.COM",
+        "addressLine": "Flat 402, Lotus Pride Apartments, 12th Main Road, HSR Layout Sector 2",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560102",
+        "landmark": "Opposite BDA Complex",
+        "type": "Home",
+        "isDefault": true
+      },
+      "items": [
+        {
+          "productId": "prod-002",
+          "name": "DOMS Zoom Ultimate Triangle Mechanical Pencil 0.7mm",
+          "brand": "DOMS",
+          "price": 49,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=700&auto=format&fit=crop&q=80",
+          "sku": "PEN-DOM-ZOO-07"
+        }
+      ],
+      "subtotal": 49,
+      "discount": 0,
+      "couponDiscount": 0,
+      "pointsRedeemed": 0,
+      "pointsDiscount": 0,
+      "shippingFee": 139,
+      "tax": 6,
+      "totalAmount": 188,
+      "paymentMethod": "UPI",
+      "paymentStatus": "paid",
+      "orderStatus": "confirmed",
+      "estimatedDeliveryDate": "Tomorrow, by 8 PM",
+      "id": "ord-mvsgmrwn",
+      "orderNumber": "SS-2026-97647",
+      "trackingNumber": "SS-587417-IN",
+      "deliveryPartner": "BlueDart Express",
+      "statusHistory": [
+        {
+          "status": "confirmed",
+          "timestamp": "2026-10-28T18:40:51.911Z",
+          "note": "Payment verified and order confirmed"
+        }
+      ],
+      "createdAt": "2026-10-28T18:40:51.911Z"
+    },
+    {
+      "_id": "ord-mvsg553t",
+      "customerId": "user-customer",
+      "customerName": "THEEPAN1330",
+      "customerEmail": "THEEPAN1330@gmail.COM",
+      "customerPhone": "+91 98111 22334",
+      "shippingAddress": {
+        "id": "addr-default",
+        "fullName": "THEEPAN1330",
+        "phone": "+91 98111 22334",
+        "email": "THEEPAN1330@gmail.COM",
+        "addressLine": "Flat 402, Lotus Pride Apartments, 12th Main Road, HSR Layout Sector 2",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560102",
+        "landmark": "Opposite BDA Complex",
+        "type": "Home",
+        "isDefault": true
+      },
+      "items": [
+        {
+          "productId": "prod-007",
+          "name": "SmartStation Minimalist Academic Habit & Daily Planner A5",
+          "brand": "Classmate",
+          "price": 349,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=700&auto=format&fit=crop&q=80",
+          "sku": "PLAN-SS-ACAD-A5-SGE"
+        },
+        {
+          "productId": "prod-006",
+          "name": "Flair Pastel Highlighter Set (Pack of 5 Soft Pastel Shades)",
+          "brand": "Flair",
+          "price": 99,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1585336261026-407137f61fc7?w=700&auto=format&fit=crop&q=80",
+          "sku": "PEN-FLA-PAS-05"
+        }
+      ],
+      "subtotal": 448,
+      "discount": 0,
+      "couponDiscount": 0,
+      "pointsRedeemed": 0,
+      "pointsDiscount": 0,
+      "shippingFee": 40,
+      "tax": 54,
+      "totalAmount": 488,
+      "paymentMethod": "UPI",
+      "paymentStatus": "paid",
+      "orderStatus": "confirmed",
+      "estimatedDeliveryDate": "In 2-3 business days",
+      "id": "ord-mvsg553t",
+      "orderNumber": "SS-2026-45204",
+      "trackingNumber": "SS-897595-IN",
+      "deliveryPartner": "BlueDart Express",
+      "statusHistory": [
+        {
+          "status": "confirmed",
+          "timestamp": "2026-10-28T18:27:09.209Z",
+          "note": "Payment verified and order confirmed"
+        }
+      ],
+      "createdAt": "2026-10-28T18:27:09.209Z"
     }
   ],
   "users": [
@@ -2540,8 +2656,8 @@
       "phone": "+91 98111 22334",
       "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=150&auto=format&fit=crop&q=80",
       "dob": "2004-05-18",
-      "rewardPoints": 240,
-      "totalSpent": 4890,
+      "rewardPoints": 273,
+      "totalSpent": 5566,
       "addresses": [
         {
           "id": "addr-cust-1",
